@@ -1,4 +1,4 @@
-✨ Task 4 Completed | Magazine Cover Design
+# ✨ Task 4 Completed | Magazine Cover Design
 
 Sharing my fourth and final task from my Graphic Design Internship at SkillCraft Technology.
 
@@ -17,9 +17,10 @@ I used a soft earthy colour palette, large editorial typography, indoor greenery
 - Cosy Interior Visuals — Indoor greenery and warm décor reflect slow, intentional living.
 - Balanced Cover Lines — Supporting text adds interest without distracting from the main title.
 - Brand Consistency — The design connects with the natural, warm visual identity developed for Homefolk in earlier tasks.
-- ## 🎨 Magazine Cover Preview
+## 🎨 Magazine Cover Preview
 
 ![ROOTED Magazine Cover](file_00000000a71071fa9d0af2f88b5ea632.png)
+
 
 🛠 Tools Used
 
@@ -30,7 +31,9 @@ I used a soft earthy colour palette, large editorial typography, indoor greenery
 
 - How to create a magazine cover with a clear visual hierarchy.
 - How typography, imagery, and spacing work together in editorial design.
-- How to maintain a consistent visual identity across multiple brand materials.
+- How to maintain a consistent visual identity across multipl## 🎨 Magazine Cover Preview
+
+e brand materials.
 - How design can communicate a calm mood and a clear publication theme.
 
 ---
