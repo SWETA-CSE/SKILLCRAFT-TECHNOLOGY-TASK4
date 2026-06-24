@@ -10,9 +10,9 @@ The cover is based on “The Slow Home Issue”, focusing on calm interiors, nat
 
 I used a soft earthy colour palette, large editorial typography, indoor greenery, and a cosy home setting to create a peaceful and premium magazine feel. Cover lines and visual elements were added to make the layout look like a complete magazine cover while keeping the main theme clear.
 
-🎨 Magazine Cover Preview
+## 🎨 Magazine Cover Preview
 
-"ROOTED Magazine Cover" (file_00000000a71071fa9d0af2f88b5ea632.png)
+![ROOTED Magazine Cover](file_00000000a71071fa9d0af2f88b5ea632.png)
 
 ✨ Key Design Elements
 
