@@ -10,10 +10,6 @@ The cover is based on “The Slow Home Issue”, focusing on calm interiors, nat
 
 I used a soft earthy colour palette, large editorial typography, indoor greenery, and a cosy home setting to create a peaceful and premium magazine feel. Cover lines and visual elements were added to make the layout look like a complete magazine cover while keeping the main theme clear.
 
-## 🎨 Magazine Cover Preview
-
-![ROOTED Magazine Cover](file_00000000a71071fa9d0af2f88b5ea632.png)
-
 ✨ Key Design Elements
 
 - Editorial Typography — Large, clear text creates a strong magazine-cover hierarchy.
@@ -21,6 +17,9 @@ I used a soft earthy colour palette, large editorial typography, indoor greenery
 - Cosy Interior Visuals — Indoor greenery and warm décor reflect slow, intentional living.
 - Balanced Cover Lines — Supporting text adds interest without distracting from the main title.
 - Brand Consistency — The design connects with the natural, warm visual identity developed for Homefolk in earlier tasks.
+- ## 🎨 Magazine Cover Preview
+
+![ROOTED Magazine Cover](file_00000000a71071fa9d0af2f88b5ea632.png)
 
 🛠 Tools Used
 
